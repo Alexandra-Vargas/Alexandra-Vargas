@@ -6,6 +6,7 @@
 
 ## Habilidades técnicas
 
+![icono_javascript](https://cdn-icons-png.flaticon.com/512/5968/5968292.png)
 - 🌱 Formandome en | HTML5 | JS | CSS | Git | GitHub | Node.js | Firebase |
 </br>
 
